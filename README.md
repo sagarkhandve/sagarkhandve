@@ -1,6 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsagarkhandve%2Fsagarkhandve.git&count_bg=%2308DD09&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
-<h3> Hello Fellow < Developers/ >!</h3>
-<h3> Hi! My name is Sagar Khandve. ⚡ I'm passionate network engineer and developer from India.</h3> 
+<h2> Hi! My name is Sagar Khandve. ⚡ I'm passionate network engineer and developer from India.</h2> 
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -19,6 +18,8 @@
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=gitlab&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/system-76/svg-logos/ddd648de8fbb02dd414c17adbd58d9e124755fdd/gitlab.svg'> </a>
+<a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=markdown&sort= > <img width ='32px' height='32px' src ='https://site-assets.fontawesome.com/releases/v6.2.0/svgs/brands/markdown.svg'> </a>
 
 
 <h3>Connect Me</h3>
