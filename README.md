@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsagarkhandve%2Fsagarkhandve.git&count_bg=%2308DD09&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
-<h2> Hi! My name is Sagar Khandve. ⚡ I'm passionate network engineer and developer from India.</h2> 
+<h2>⚡ Hi All! I'm Sagar Khandve, passionate network engineer and developer from India.</h2> 
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
