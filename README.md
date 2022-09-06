@@ -20,7 +20,7 @@
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=gitlab&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/system-76/svg-logos/ddd648de8fbb02dd414c17adbd58d9e124755fdd/gitlab.svg'> </a>
-<a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=markdown&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/system-76/svg-logos/f9a21f300e8cda93892ae59089922b129fb2c9a6/markdown.svg'> </a>
+<a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=markdown&sort= > <img width ='32px' height='32px' src ='https://site-assets.fontawesome.com/releases/v6.2.0/svgs/brands/markdown.svg'> </a>
 
 
 <h3>Contact Me</h3>
