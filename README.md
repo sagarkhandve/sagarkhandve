@@ -1,5 +1,5 @@
 <h3> Hello Fellow < Developers/ >!</h3>
-<h3> Hi! My name is Sagar Khandve. ⚡I'm passionate network engineer and developer from India.</h3> 
+<h3> Hi! My name is Sagar Khandve. ⚡ I'm passionate network engineer and developer from India.</h3> 
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
