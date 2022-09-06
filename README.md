@@ -23,7 +23,7 @@
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=markdown&sort= > <img width ='32px' height='32px' src ='https://site-assets.fontawesome.com/releases/v6.2.0/svgs/brands/markdown.svg'> </a>
 
 
-<h3><img width = '32px' align= 'left' src="https://raw.githubusercontent.com/system-76/svg-logos/13babbdf26b973eb9483c722d299fd341d9d89ba/contact.svg"/></h3>
+<h3><img width = '32px' align= 'left' src="https://raw.githubusercontent.com/system-76/svg-logos/13babbdf26b973eb9483c722d299fd341d9d89ba/contact.svg"/>Contact Me</h3>
 <a href = 'https://www.linkedin.com/in/sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/system-76/svg-logos/6c51969b8f66e9018ac5511c534f781c96037f93/linkedin.svg"/></a> 
 <a href = 'https://www.twitter.com/i_sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/system-76/svg-logos/6c51969b8f66e9018ac5511c534f781c96037f93/github.svg"/></a> 
