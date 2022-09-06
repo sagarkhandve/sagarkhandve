@@ -1,5 +1,5 @@
-<h1> Hello Fellow < Developers/ >!
-<h2> Hi! My name is Sagar Khandve. Thank You for taking the time to view my GitHub Profile :smile:</h2>
+<h3> Hello Fellow < Developers/ >!</h3>
+<h3> Hi! My name is Sagar Khandve. Thank You for taking the time to view my GitHub Profile :smile:</h3>
 <h3>I'm passionate network engineer and developer from India</h3>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
