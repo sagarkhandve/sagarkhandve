@@ -15,6 +15,7 @@
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=grafana&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/grafana.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
+<a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/system-76/svg-logos/6c51969b8f66e9018ac5511c534f781c96037f93/aws.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
@@ -23,7 +24,7 @@
 
 
 <h3>Connect Me</h3>
-<a href = 'https://www.linkedin.com/in/sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/system-76/svg-logos/6c51969b8f66e9018ac5511c534f781c96037f93/linkedin.svg"/></a> 
 <a href = 'https://www.twitter.com/i_sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/system-76/svg-logos/6c51969b8f66e9018ac5511c534f781c96037f93/github.svg"/></a> 
 
