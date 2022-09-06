@@ -1,17 +1,14 @@
 <h3> Hello Fellow < Developers/ >!</h3>
 <h3> Hi! My name is Sagar Khandve. Thank You for taking the time to view my GitHub Profile.</h3> 
 
-<h3 align="left">I'm passionate network engineer and developer from India</h3>
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
-- 💬 Ask me about **Anything related to networking**
 
-- ⚡ Fun fact **I Always try to learn something new and then sleep till it store in the mind**
+- ⚡ **I'm passionate network engineer and developer from India.**
 
 <h3> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h3>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
