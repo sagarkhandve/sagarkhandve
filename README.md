@@ -28,5 +28,5 @@
 <h3>Contact Me</h3>
 <a href = 'https://www.linkedin.com/in/sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/system-76/svg-logos/6c51969b8f66e9018ac5511c534f781c96037f93/linkedin.svg"/></a> 
 <a href = 'https://www.twitter.com/i_sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/sagarkhandve'> <img width = '38px' align= 'center' src="https://raw.githubusercontent.com/system-76/svg-logos/11cc8512179d64522c97073f0e9104bddff92b7e/github.svg"/></a> 
+<a href = 'https://www.github.com/sagarkhandve'> <img width = '40px' align= 'center' src="https://raw.githubusercontent.com/system-76/svg-logos/11cc8512179d64522c97073f0e9104bddff92b7e/github.svg"/></a> 
 
