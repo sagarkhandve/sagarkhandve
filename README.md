@@ -13,14 +13,15 @@
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=grafana&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/grafana.svg'> </a>
-<a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=google-colab&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg'> </a>
+<a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/system-76/svg-logos/6c51969b8f66e9018ac5511c534f781c96037f93/aws.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-<a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/system-76/svg-logos/6c51969b8f66e9018ac5511c534f781c96037f93/aws.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=gitlab&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/system-76/svg-logos/ddd648de8fbb02dd414c17adbd58d9e124755fdd/gitlab.svg'> </a>
+<a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=google-colab&sort= > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg'> </a>
+<a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=vscode&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/system-76/svg-logos/eeccd2e2632565a2f0782681466be3780bef0c21/vscode.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=markdown&sort= > <img width ='32px' height='32px' src ='https://site-assets.fontawesome.com/releases/v6.2.0/svgs/brands/markdown.svg'> </a>
 
 
