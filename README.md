@@ -6,7 +6,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<h3> Skills <img src = "https://raw.githubusercontent.com/system-76/svg-logos/main/coding.webp" width = 36px height=36px> </h3>
+### Skills <img src = "https://raw.githubusercontent.com/system-76/svg-logos/main/coding.webp" width = 36px height=36px>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=redis&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redis.svg'> </a>
@@ -23,7 +23,7 @@
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=markdown&sort= > <img width ='32px' height='32px' src ='https://site-assets.fontawesome.com/releases/v6.2.0/svgs/brands/markdown.svg'> </a>
 
 
-### **How To Reach Me !**
+### How To Reach Me !
 <a href = 'https://www.linkedin.com/in/sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/system-76/svg-logos/6c51969b8f66e9018ac5511c534f781c96037f93/linkedin.svg"/></a> 
 <a href = 'https://www.twitter.com/i_sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/sagarkhandve'> <img width = '42px' align= 'center' src="https://raw.githubusercontent.com/system-76/svg-logos/11cc8512179d64522c97073f0e9104bddff92b7e/github.svg"/></a> 
