@@ -24,8 +24,8 @@
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=markdown&sort= > <img width ='32px' height='32px' src ='https://site-assets.fontawesome.com/releases/v6.2.0/svgs/brands/markdown.svg'> </a>
 
 ## Some of my Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sagarkhandve&show_icons=true&include_all_commits=true)](https://github.com/sagarkhandve/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkhandve&layout=compact)](https://github.com/sagarkhandve/github-readme-stats)
+<p>[![Github stats](https://github-readme-stats.vercel.app/api?username=sagarkhandve&show_icons=true&include_all_commits=true)](https://github.com/sagarkhandve/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkhandve&layout=compact)](https://github.com/sagarkhandve/github-readme-stats)</p>
 
 ## How To Reach Me !
 [![Gmail Badge](https://img.shields.io/badge/-i.sagarkhandve@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:i.sagarkhandve@gmail.com)](mailto:i.sagarkhandve@gmail.com) 
