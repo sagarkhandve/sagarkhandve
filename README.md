@@ -23,8 +23,11 @@
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=vscode&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/system-76/svg-logos/eeccd2e2632565a2f0782681466be3780bef0c21/vscode.svg'> </a>
 <a href= https://github.com/sagarkhandve?tab=repositories&q=&type=&language=markdown&sort= > <img width ='32px' height='32px' src ='https://site-assets.fontawesome.com/releases/v6.2.0/svgs/brands/markdown.svg'> </a>
 
+## Some of my Github Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sagarkhandve&show_icons=true&include_all_commits=true)](https://github.com/sagarkhandve/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarkhandve&layout=compact)](https://github.com/sagarkhandve/github-readme-stats)
 
 ## How To Reach Me !
-<a href = 'https://www.linkedin.com/in/sagarkhandve'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/system-76/svg-logos/6c51969b8f66e9018ac5511c534f781c96037f93/linkedin.svg"/></a> 
-<a href = 'https://www.github.com/sagarkhandve'> <img width = '42px' align= 'center' src="https://raw.githubusercontent.com/system-76/svg-logos/11cc8512179d64522c97073f0e9104bddff92b7e/github.svg"/></a> 
+[![Gmail Badge](https://img.shields.io/badge/-i.sagarkhandve@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:i.sagarkhandve@gmail.com)](mailto:i.sagarkhandve@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-sagarkhandve-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagarkhandve/)](https://www.linkedin.com/in/sagarkhandve/) [![Github Badge](https://img.shields.io/badge/-sagarkhandve-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sagarkhandve/)](https://www.github.com/sagarkhandve/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/sagarkhandve/)](https://github.com/sagarkhandve/) 
 
